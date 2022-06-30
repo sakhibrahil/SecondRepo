@@ -7,6 +7,7 @@ GIT AND GITHUB
 6.	cd Git_Demo
 7.	mkdir FirstRepo
 8.	cd FirstRepo
+I am doing this to see how commits are made
 9.	to create a repository= git init
 10.	create a txt file = touch master.txt
 11.	modify the file = notepad master.txt
