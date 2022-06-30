@@ -1,0 +1,31 @@
+GIT AND GITHUB
+1.	Download Git from – git client for windows
+2.	Open the command line
+3.	Type git --version
+4.	Git --help
+5.	mkdir Git_Demo
+6.	cd Git_Demo
+7.	mkdir FirstRepo
+8.	cd FirstRepo
+9.	to create a repository= git init
+10.	create a txt file = touch master.txt
+11.	modify the file = notepad master.txt
+12.	to check the status of the commits = git status
+13.	to add the file to the repository= git add <file name> or <.>
+14.	git status
+15.	to commit the repository = git commit –m “First GIT commit”
+16.	git status
+17.	git log
+18.	git status
+19.	git log
+20.	touch master1.txt
+21.	notepad master1.txt
+22.	notepad master.txt
+23.	git status
+24.	git add .
+25.	git status
+26.	git commit –m “Second Commit”
+27.	git log
+28.	git remote add origin https://github.com/sakhibrahil/FirstRepo.git
+29.	git remote -v
+30.	git push -u origin master
